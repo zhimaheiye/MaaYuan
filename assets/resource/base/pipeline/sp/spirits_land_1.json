@@ -288,7 +288,9 @@
     },
     "action": {
       "type": "Click",
-      "param": {}
+      "param": {
+        "target_offset": [8, 35, -21, -35]
+      }
     },
     "pre_delay": 500,
     "post_delay": 1000,

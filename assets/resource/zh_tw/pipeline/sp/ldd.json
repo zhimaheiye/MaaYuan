@@ -243,7 +243,9 @@
     },
     "action": {
       "type": "Click",
-      "param": {}
+      "param": {
+        "target_offset": [22, 7, -38, -57]
+      }
     },
     "pre_delay": 500,
     "timeout": 2000,
@@ -369,7 +371,9 @@
     },
     "action": {
       "type": "Click",
-      "param": {}
+      "param": {
+        "target_offset": [22, 7, -38, -57]
+      }
     },
     "pre_delay": 500,
     "next": ["隆地东-捞鱼"]
@@ -554,7 +558,9 @@
     },
     "action": {
       "type": "Click",
-      "param": {}
+      "param": {
+        "target_offset": [0, 95, -27, -115]
+      }
     },
     "next": ["隆地东自动历险"]
   },

@@ -27,7 +27,9 @@
     },
     "action": {
       "type": "Click",
-      "param": {}
+      "param": {
+        "target_offset": [5, 5, -10, -12]
+      }
     },
     "next": ["观星-点击一键收取"]
   },

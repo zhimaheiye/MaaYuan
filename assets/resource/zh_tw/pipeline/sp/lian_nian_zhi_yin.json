@@ -87,7 +87,9 @@
     },
     "action": {
       "type": "Click",
-      "param": {}
+      "param": {
+        "target_offset": [5, 0, -9, -10]
+      }
     },
     "pre_delay": 1000,
     "next": ["恋念之音-退出语音"]

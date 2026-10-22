@@ -125,7 +125,9 @@
     },
     "action": {
       "type": "Click",
-      "param": {}
+      "param": {
+        "target_offset": [38, 31, -57, -131]
+      }
     },
     "post_delay": 800,
     "next": ["[JumpBack]状态异常回滚"]
@@ -279,7 +281,9 @@
     },
     "action": {
       "type": "Click",
-      "param": {}
+      "param": {
+        "target_offset": [24, 45, -46, -128]
+      }
     },
     "post_delay": 800,
     "next": ["[JumpBack]状态异常回滚"]
@@ -425,7 +429,9 @@
     },
     "action": {
       "type": "Click",
-      "param": {}
+      "param": {
+        "target_offset": [24, 45, -46, -128]
+      }
     },
     "post_delay": 800,
     "next": ["点击生鱼2", "[JumpBack]状态异常回滚"]
@@ -441,7 +447,9 @@
     },
     "action": {
       "type": "Click",
-      "param": {}
+      "param": {
+        "target_offset": [24, 45, -46, -128]
+      }
     },
     "post_delay": 800,
     "next": ["找到生鱼1", "[JumpBack]状态异常回滚"]
@@ -546,7 +554,9 @@
     },
     "action": {
       "type": "Click",
-      "param": {}
+      "param": {
+        "target_offset": [12, 31, -22, -85]
+      }
     },
     "post_delay": 800,
     "next": ["[JumpBack]状态异常回滚"]
@@ -753,7 +763,9 @@
     },
     "action": {
       "type": "Click",
-      "param": {}
+      "param": {
+        "target_offset": [16, 108, -19, -182]
+      }
     },
     "post_delay": 800,
     "next": ["[JumpBack]状态异常回滚"]
@@ -845,7 +857,9 @@
     },
     "action": {
       "type": "Click",
-      "param": {}
+      "param": {
+        "target_offset": [25, 36, -45, -93]
+      }
     },
     "post_delay": 800,
     "next": ["[JumpBack]状态异常回滚"]

@@ -69,7 +69,9 @@
     },
     "action": {
       "type": "Click",
-      "param": {}
+      "param": {
+        "target_offset": [0, 37, -13, -37]
+      }
     },
     "pre_delay": 500,
     "post_delay": 3000,
@@ -97,7 +99,9 @@
     },
     "action": {
       "type": "Click",
-      "param": {}
+      "param": {
+        "target_offset": [0, 37, -13, -37]
+      }
     },
     "pre_delay": 500,
     "post_delay": 3000,

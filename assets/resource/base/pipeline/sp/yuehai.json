@@ -77,7 +77,9 @@
     },
     "action": {
       "type": "Click",
-      "param": {}
+      "param": {
+        "target_offset": [17, 18, -41, -31]
+      }
     },
     "pre_delay": 500,
     "timeout": 2000,

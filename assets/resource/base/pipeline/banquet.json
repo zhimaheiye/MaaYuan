@@ -182,7 +182,9 @@
     },
     "action": {
       "type": "Click",
-      "param": {}
+      "param": {
+        "target_offset": [16, 14, -40, -29]
+      }
     },
     "pre_delay": 500,
     "post_wait_freezes": 1000,

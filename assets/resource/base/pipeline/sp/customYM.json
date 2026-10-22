@@ -182,7 +182,9 @@
     },
     "action": {
       "type": "Click",
-      "param": {}
+      "param": {
+        "target_offset": [48, 70, -99, -70]
+      }
     },
     "pre_delay": 500,
     "post_delay": 2000,
@@ -223,7 +225,9 @@
     },
     "action": {
       "type": "Click",
-      "param": {}
+      "param": {
+        "target_offset": [26, 29, -53, -52]
+      }
     },
     "pre_delay": 500,
     "post_delay": 2000,
@@ -252,7 +256,9 @@
     },
     "action": {
       "type": "Click",
-      "param": {}
+      "param": {
+        "target_offset": [29, 82, -59, -113]
+      }
     },
     "pre_delay": 500,
     "post_delay": 2000,
@@ -316,7 +322,9 @@
     },
     "action": {
       "type": "Click",
-      "param": {}
+      "param": {
+        "target_offset": [5, 15, -26, -27]
+      }
     },
     "pre_delay": 500,
     "focus": "未获得雷击木加成，推牌重开！",
@@ -372,7 +380,9 @@
     },
     "action": {
       "type": "Click",
-      "param": {}
+      "param": {
+        "target_offset": [21, 112, -48, -133]
+      }
     },
     "pre_delay": 500,
     "post_delay": 3000,
@@ -414,7 +424,9 @@
     },
     "action": {
       "type": "Click",
-      "param": {}
+      "param": {
+        "target_offset": [18, 113, -37, -119]
+      }
     },
     "pre_delay": 500,
     "post_delay": 1500,
@@ -457,7 +469,9 @@
     },
     "action": {
       "type": "Click",
-      "param": {}
+      "param": {
+        "target_offset": [48, 34, -79, -37]
+      }
     },
     "pre_delay": 500,
     "post_delay": 2000,
@@ -498,7 +512,9 @@
     },
     "action": {
       "type": "Click",
-      "param": {}
+      "param": {
+        "target_offset": [33, 7, -63, -7]
+      }
     },
     "pre_delay": 500,
     "post_delay": 2000,
@@ -520,7 +536,9 @@
     },
     "action": {
       "type": "Click",
-      "param": {}
+      "param": {
+        "target_offset": [21, 53, -42, -53]
+      }
     },
     "pre_delay": 500,
     "post_delay": 2000,
@@ -651,7 +669,9 @@
     },
     "action": {
       "type": "Click",
-      "param": {}
+      "param": {
+        "target_offset": [48, 70, -99, -70]
+      }
     },
     "pre_delay": 500,
     "post_delay": 2000,
@@ -692,7 +712,9 @@
     },
     "action": {
       "type": "Click",
-      "param": {}
+      "param": {
+        "target_offset": [26, 29, -53, -52]
+      }
     },
     "pre_delay": 500,
     "post_delay": 2000,
@@ -721,7 +743,9 @@
     },
     "action": {
       "type": "Click",
-      "param": {}
+      "param": {
+        "target_offset": [29, 82, -59, -113]
+      }
     },
     "pre_delay": 500,
     "post_delay": 2000,
@@ -751,7 +775,9 @@
     },
     "action": {
       "type": "Click",
-      "param": {}
+      "param": {
+        "target_offset": [21, 112, -48, -133]
+      }
     },
     "pre_delay": 500,
     "post_delay": 3000,
@@ -793,7 +819,9 @@
     },
     "action": {
       "type": "Click",
-      "param": {}
+      "param": {
+        "target_offset": [18, 113, -37, -119]
+      }
     },
     "pre_delay": 500,
     "post_delay": 1500,
@@ -836,7 +864,9 @@
     },
     "action": {
       "type": "Click",
-      "param": {}
+      "param": {
+        "target_offset": [48, 34, -79, -37]
+      }
     },
     "pre_delay": 500,
     "post_delay": 2000,
@@ -877,7 +907,9 @@
     },
     "action": {
       "type": "Click",
-      "param": {}
+      "param": {
+        "target_offset": [33, 7, -63, -7]
+      }
     },
     "pre_delay": 500,
     "post_delay": 2000,
@@ -899,7 +931,9 @@
     },
     "action": {
       "type": "Click",
-      "param": {}
+      "param": {
+        "target_offset": [21, 53, -42, -53]
+      }
     },
     "pre_delay": 500,
     "post_delay": 2000,

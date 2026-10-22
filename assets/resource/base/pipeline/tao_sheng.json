@@ -80,7 +80,9 @@
     },
     "action": {
       "type": "Click",
-      "param": {}
+      "param": {
+        "target_offset": [24, 24, -52, -40]
+      }
     },
     "pre_delay": 1000,
     "pre_wait_freezes": 500,
