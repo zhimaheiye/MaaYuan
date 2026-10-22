@@ -29,7 +29,7 @@
 
 MaaYuan also serves as the core client of a broader open-source ecosystem:
 
-- **[MyShare](https://share.maayuan.top/)** — a community platform for publishing, sharing, and importing reusable automation workflows directly into MaaYuan.  
+- **[MyShare](https://share.maayuan.com/)** — a community platform for publishing, sharing, and importing reusable automation workflows directly into MaaYuan.  
   Frontend: [syoius/MaaYuan-Share-frontend](https://github.com/syoius/MaaYuan-Share-frontend)  
   Backend: [MrSnake0208/MaaYuan-Share-Backend](https://github.com/MrSnake0208/MaaYuan-Share-Backend)
 
@@ -49,7 +49,7 @@ Android 端基于 **[MaaFwApp](https://github.com/syoius/MaaFwApp/tree/maayuan)*
 
 建议将模拟器分辨率配置设置为 `1280x720, 320dpi` 。目前开发组仅基于进行此分辨率进行测试和调整，其他分辨率暂缺人手、不保证使用效果。欢迎多多反馈、加入测试开发！
 
-船新版本 **[（自动战斗）作业站](https://share.maayuan.top/)** 锐意测试 ing~ 访问作业站可获得 `神秘代码`，启动 MaaYuan 后，进入 🎮 抄作业 专属界面 使用 `神秘代码` 即可一键导入对应作业文件。
+船新版本 **[（自动战斗）作业站](https://share.maayuan.com/)** 锐意测试 ing~ 访问作业站可获得 `神秘代码`，启动 MaaYuan 后，进入 🎮 抄作业 专属界面 使用 `神秘代码` 即可一键导入对应作业文件。
 
 - 作业编辑器 V2：新增类表格视图（类似辟雍学府-操作记录仪的编辑模式），编写作业更方便。
 
@@ -71,6 +71,7 @@ Android 端基于 **[MaaFwApp](https://github.com/syoius/MaaFwApp/tree/maayuan)*
 
 - 🔄 全量采集陈登、史子眇时，通过“切换形态”分别读取普通版与 SP 版；确认身份并恢复原形态后才进入下一位。两个形态分别遵循养成筛选；“只采集当前一位”只读取当前形态。
 - ⭐ 化极页面显示“已觉醒”时，即使姓名 OCR 漏掉觉醒徽标，也会导出觉醒星级 `31`；“待觉醒”不算已觉醒。
+- 蓝卡（隐密）显示“最高等级”时，按公共图鉴记录为 4 星满阶、未觉醒，导出星级 `19`，不再误报为五星已觉醒。历史误报仍需在 YuanHub 复核，新采集使用修正后的规则。
 - ☁️ “本地已新增／已更新”表示本地报告保存成功。上报日志会显示预览和提交结果；服务器返回拒收时，会打印拒收原因，即使 HTTP 状态为 200 也不会视为成功。
 
 ### 1. 支持的游戏任务:
@@ -110,7 +111,7 @@ Android 端基于 **[MaaFwApp](https://github.com/syoius/MaaFwApp/tree/maayuan)*
   - 🔄 自动刷洞窟
     - 支持 `游戏内置自动战斗` 及 `抄作业` 自动刷满洞窟 30 层
   - 🔥 心纸营建自动走历险（首通/手动刷佛脚用，非自动派遣）
-  - 🔥 船新版本 **[（自动战斗）作业站](https://share.maayuan.top/)** 锐意测试 ing~ 访问作业站可获得 `神秘代码`，启动 MaaYuan 后，进入 🎮 抄作业 专属界面 使用 `神秘代码` 即可一键导入对应作业文件。
+  - 🔥 船新版本 **[（自动战斗）作业站](https://share.maayuan.com/)** 锐意测试 ing~ 访问作业站可获得 `神秘代码`，启动 MaaYuan 后，进入 🎮 抄作业 专属界面 使用 `神秘代码` 即可一键导入对应作业文件。
 
 ### 2. MaaYuan 功能
 
