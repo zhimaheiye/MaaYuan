@@ -519,7 +519,9 @@
     },
     "action": {
       "type": "Click",
-      "param": {}
+      "param": {
+        "target_offset": [115, 19, -222, -72]
+      }
     },
     "pre_delay": 500,
     "post_delay": 3000,
@@ -530,7 +532,8 @@
       "邺城事件-购物测试",
       "网络错误-返回登录",
       "[JumpBack]邺城事件-检测对话",
-      "[JumpBack]邺城事件-跳过旁白"
+      "[JumpBack]邺城事件-跳过旁白",
+      "邺城事件-市肆"
     ],
     "on_error": ["邺城事件-选择超时"]
   },
