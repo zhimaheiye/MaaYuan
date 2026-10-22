@@ -511,7 +511,7 @@
       "type": "TemplateMatch",
       "param": {
         "template": "yecheng/shop.png",
-        "threshold": 0.75,
+        "threshold": 0.7,
         "green_mask": true,
         "order_by": "Score",
         "roi": [2, 409, 711, 270]
